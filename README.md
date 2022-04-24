@@ -9,7 +9,7 @@
  * Spring Final PPT Slideshow
      - [Slides](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/PPTSlides.pdf)
      - [Video](https://www.youtube.com/video/DeU0ssT9aC0)
- * [Final Expo Poster](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/ABETConcerns.md)
+ * [Final Expo Poster](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EmmaBradfordNolanDalyPoster.png)
  * Initial Self-Assessment Essays
      - [Emma Bradford](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EBInitialSelfAssessment.md)
      - [Nolan Daly](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/NDInitialSelfAssessment.md)

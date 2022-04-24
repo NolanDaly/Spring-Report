@@ -11,9 +11,9 @@
      - [Video](https://www.youtube.com/video/DeU0ssT9aC0)
  * [Final Expo Poster](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/ABETConcerns.md)
  * Initial Self-Assessment Essays
-     - [Emma Bradford](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/EBSelfAssessment.md)
-     - [Nolan Daly](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/NDSelfAssessment.md)
+     - [Emma Bradford](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EBInitialSelfAssessment.md)
+     - [Nolan Daly](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/NDInitialSelfAssessment.md)
  * Final Self-Assessment Essays
-     - [Emma Bradford](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/EBSelfAssessment.md)
-     - [Nolan Daly](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/NDSelfAssessment.md)
+     - [Emma Bradford](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EBFinalSelfAssessment.md)
+     - [Nolan Daly](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/NDFinalSelfAssessment.md)
  * [Summary of Hours and Justification](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/Appendix.md)

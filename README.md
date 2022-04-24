@@ -7,7 +7,7 @@
  * [Test Plan and Results](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/TestPlan.md)
  * [User Manual](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/ABETConcerns.md)
  * Spring Final PPT Slideshow
-     - [Slides](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/PPTSlides.pdf)
+     - [Slides](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/ExpoSlides.pdf)
      - [Video](https://www.youtube.com/video/DeU0ssT9aC0)
  * [Final Expo Poster](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EmmaBradfordNolanDalyPoster.png)
  * Initial Self-Assessment Essays

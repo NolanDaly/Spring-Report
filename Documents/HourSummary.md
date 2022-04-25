@@ -9,7 +9,7 @@
      - Postman
      - Connecting to MongoDB
      - Setting up endpoints
-Nolan Daly
+ * Nolan Daly
 React tutorial (~3 hours)
 Javascript tutorial/coding (~4 hours)
 React tutorial + project (~5 hours)

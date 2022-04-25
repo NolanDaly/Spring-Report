@@ -16,4 +16,4 @@
  * Final Self-Assessment Essays
      - [Emma Bradford](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EBFinalSelfAssessment.md)
      - [Nolan Daly](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/NDFinalSelfAssessment.md)
- * [Summary of Hours and Justification](https://github.com/NolanDaly/Fall-Report/blob/main/Documents/Appendix.md)
+ * [Summary of Hours and Justification](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/HourSummary.md)

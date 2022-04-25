@@ -28,9 +28,16 @@
           - Connecting to mongo db
           - Setting up endpoints
           - Testing and set up with post man
-       - 5 hours making data base
-       - 5 hours testing
+    - 5 hours making data base
+    - 5 hours testing
  * For Nolan
+      - ~10 hours of research and practice
+          - Tutorial reviews, learning to set up web application projects, practice projects, etc.
+      - ~15 hours of direct project work
+          - ~5 hours of UI work
+             - HTML/CSS struggles, testing different designs, making a framework for book display, etc.
+          - ~10 hours Javascript
+             - Genre selection boxes, testing Node.js and React capabilities, basic encoding of query data into a json file, etc.
 ## Total hours
 Roughly 100+ hours over both semesters
 ## Justification

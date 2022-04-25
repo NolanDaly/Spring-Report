@@ -10,12 +10,12 @@
      - Connecting to MongoDB
      - Setting up endpoints
  * Nolan Daly
-React tutorial (~3 hours)
-Javascript tutorial/coding (~4 hours)
-React tutorial + project (~5 hours)
-~3 hours programming
-Testing limits of Node.js for query tracking, dropdown menus, and dynamic displays
-Hours given per person in Spring (45 hours each)
+    - React tutorial (~3 hours)
+    - Javascript tutorial/coding (~4 hours)
+    - React tutorial + project (~5 hours)
+    - ~3 hours programming
+       - Testing limits of Node.js for query tracking, dropdown menus, and dynamic displays
+## Hours given per person in Spring (45 hours each)
 Both members
 ~15 to 25 hours spent on meetings/assignments (approximately 1 to 1.5 hours per meeting)
 5 hours for preparation and presentation of Expo

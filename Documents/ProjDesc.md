@@ -1,6 +1,10 @@
 # Project Description
 
+## Abstract
+
 Our project is focused on creating a web-based application that is capable of generating a list of books to read based on user criteria. The application will be split into two parts: a front-end for user interaction, and a back-end for processing queries and interacting with our database. The front-end will allow the user to specify criteria, which will be used by the back-end to generate a list.
+
+## Additional information
 
 After testing a variety of platforms, the best choices for our front-end and back-end were determined to be React/Node.js and MongoDB, respectively. These options were the easiest to use for a simplistic project like ours, and were fairly straightforward to learn. Despite their relative simplicity, they have more than enough features to enable us to complete our project.
 

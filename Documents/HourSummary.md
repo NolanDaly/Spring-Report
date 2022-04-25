@@ -36,10 +36,12 @@
       - ~15 hours of direct project work
           - ~5 hours of UI work
              - HTML/CSS struggles, testing different designs, making a framework for book display, etc.
-          - ~10 hours Javascript
+          - ~10 hours JavaScript
              - Genre selection boxes, testing Node.js and React capabilities, basic encoding of query data into a json file, etc.
 ## Total hours
 Roughly 100+ hours over both semesters
 ## Justification
  * Emma
     - I created and maintained a database of books that is over six hundred books long. I converted that spreadsheet into Json data. Manually entered all data from that spreadsheet into the mongodb database. I created all of the backend endpoints.   there are three categories of back indent points. The first category is the book and points so this includes update, delete, get by ID, get all, and post for the book module. The next category is the genre. I created a get all unique genres back endpoint that will return the unique genres in the database. I also created the end point that gives the user book recommendations based on the input fields from the front end.
+ * Nolan
+    - My focus was on the creation of our project's front-end. As it was web-based, I had to dedicate a substantial amount of time to learning the various languages, testing their functionality, and debugging beginner issues, among other things. Eventually, I was able to create a design for our front-end after some deliberation, and did some work on the actual JavaScript code. Aside from this work on the web aspect of our project (including working with HTML and CSS, design testing, and JavaScript programming), a substantial amount of my work came from sources peripheral to the actual project. For example, in preparaation for the expo, I needed to do research on example posters to obtain a better idea of what was expected of us. I then had to learn how to use image editing software to create our own poster, obtain images of our project, and create the text for our poster. This alone took a substantial amount of time, and the various other assignments we had to complete contributed similarly.

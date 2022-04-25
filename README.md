@@ -8,7 +8,7 @@
  * [User Manual](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/UserManual.md)
  * Spring Final PPT Slideshow
      - [Slides](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/ExpoSlides.pdf)
-     - [Video](https://www.youtube.com/video/DeU0ssT9aC0)
+     - [Video](https://www.youtube.com/watch?v=LvDVPOTN_BE)
  * [Final Expo Poster](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EmmaBradfordNolanDalyPoster.png)
  * Initial Self-Assessment Essays
      - [Emma Bradford](https://github.com/NolanDaly/Spring-Report/blob/main/Documents/EBInitialSelfAssessment.md)
